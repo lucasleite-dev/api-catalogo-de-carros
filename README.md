@@ -1,7 +1,7 @@
 # Catalogo de Carros - API
 ### Objetivo
-`Construir uma API de cadastro de automóveis (carros) com testes de validação das rotas e erros previstos no desenvolvimento da API. `
-`Kenzie Academy Brasil - Módulo 5 - Entrega 3 - Desenvolvendo e testado uma API de catálogo de carros.`
+Construir uma API de cadastro de automóveis (carros) com testes de validação das rotas e erros previstos no desenvolvimento da API.
+Kenzie Academy Brasil - Módulo 5 - Entrega 3 - Desenvolvendo e testado uma API de catálogo de carros.
 ***
 
 # Comportamentos esperados
